@@ -1,0 +1,9 @@
+{
+  "name": "vroom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "joystick": "^0.1.2"
+  }
+}
